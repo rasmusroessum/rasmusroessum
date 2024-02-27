@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rasmus Røssum</h1>
+<h1 align="center">Hi 👋</h1>
+<h1 align="center">I'm Rasmus Røssum</h1>
 
 - 💬 Ask me about **PowerShell**
 
